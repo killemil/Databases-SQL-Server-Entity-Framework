@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamBuilder.Client", "TeamBuilder.Client\TeamBuilder.Client.csproj", "{E74ABB65-7301-484E-AF7F-AB21F3F0BF63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamBuilder.Data", "TeamBuilder.Data\TeamBuilder.Data.csproj", "{2DC4B533-9133-4E21-91F0-08ACA8C0BE09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamBuilder.Models", "TeamBuilder.Models\TeamBuilder.Models.csproj", "{C6136919-49AB-4F70-92ED-D1702A5D829E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E74ABB65-7301-484E-AF7F-AB21F3F0BF63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E74ABB65-7301-484E-AF7F-AB21F3F0BF63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E74ABB65-7301-484E-AF7F-AB21F3F0BF63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E74ABB65-7301-484E-AF7F-AB21F3F0BF63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DC4B533-9133-4E21-91F0-08ACA8C0BE09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DC4B533-9133-4E21-91F0-08ACA8C0BE09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DC4B533-9133-4E21-91F0-08ACA8C0BE09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DC4B533-9133-4E21-91F0-08ACA8C0BE09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6136919-49AB-4F70-92ED-D1702A5D829E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6136919-49AB-4F70-92ED-D1702A5D829E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6136919-49AB-4F70-92ED-D1702A5D829E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6136919-49AB-4F70-92ED-D1702A5D829E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

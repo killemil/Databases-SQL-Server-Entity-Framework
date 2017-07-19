@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<venues town="Sofia">
+  <venue name="Glasshouse" capacity="300">
+    <weddings-count>2</weddings-count>
+  </venue>
+  <venue name="Boar" capacity="1300">
+    <weddings-count>2</weddings-count>
+  </venue>
+  <venue name="Sand Spring Restaurant" capacity="500">
+    <weddings-count>2</weddings-count>
+  </venue>
+  <venue name="Horse and Plow" capacity="100">
+    <weddings-count>2</weddings-count>
+  </venue>
+  <venue name="St John the Divine" capacity="4100">
+    <weddings-count>2</weddings-count>
+  </venue>
+  <venue name="St John the Baptist" capacity="4100">
+    <weddings-count>2</weddings-count>
+  </venue>
+</venues>

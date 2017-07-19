@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sales>
+  <sale>
+    <car make="Opel" model="Omega" travelled-distance="2147483647">
+      <customer-name>Emmitt Benally</customer-name>
+      <discount>0.00</discount>
+      <price>6535.34</price>
+      <price-with-discount>6535.340000</price-with-discount>
+    </car>
+  </sale>
+  <sale>
+    <car make="Opel" model="Astra" travelled-distance="9223372036854775807">
+      <customer-name>Natalie Poli</customer-name>
+      <discount>5.00</discount>
+      <price>5634.99</price>
+      <price-with-discount>5353.240500</price-with-discount>
+    </car>
+  </sale>
+  <sale>
+    <car make="Opel" model="Astra" travelled-distance="922337203685807">
+      <customer-name>Marcelle Griego</customer-name>
+      <discount>10.00</discount>
+      <price>4732.64</price>
+      <price-with-discount>4259.376000</price-with-discount>
+    </car>
+  </sale>
+  <sale>
+    <car make="Opel" model="Corsa" travelled-distance="214747">
+      <customer-name>Zada Attwood</customer-name>
+      <discount>15.00</discount>
+      <price>3433.29</price>
+      <price-with-discount>2918.296500</price-with-discount>
+    </car>
+  </sale>
+  <sale>
+    <car make="Opel" model="Kadet" travelled-distance="21474847">
+      <customer-name>Hai Everton</customer-name>
+      <discount>20.00</discount>
+      <price>4933.94</price>
+      <price-with-discount>3947.152000</price-with-discount>
+    </car>
+  </sale>
+  <sale>
+    <car make="Opel" model="Vectra" travelled-distance="9223372854775807">
+      <customer-name>Lino Subia</customer-name>
+      <discount>25.00</discount>
+      <price>7894.59</price>
+      <price-with-discount>5920.942500</price-with-discount>
+    </car>
+  </sale>
+  <sale>
+    <car make="Opel" model="Insignia" travelled-distance="2147483647">
+      <customer-name>Rico Peer</customer-name>
+      <discount>30.00</discount>
+      <price>9695.24</price>
+      <price-with-discount>6786.668000</price-with-discount>
+    </car>
+  </sale>
+  <sale>
+    <car make="Opel" model="Astra" travelled-distance="922336854775807">
+      <customer-name>Teddy Hobby</customer-name>
+      <discount>35.00</discount>
+      <price>11885.89</price>
+      <price-with-discount>7725.828500</price-with-discount>
+    </car>
+  </sale>
+  <sale>
+    <car make="Opel" model="Corsa" travelled-distance="21474847">
+      <customer-name>Johnette Derryberry</customer-name>
+      <discount>40.00</discount>
+      <price>12788.88</price>
+      <price-with-discount>7673.328000</price-with-discount>
+    </car>
+  </sale>
+  <sale>
+    <car make="Opel" model="Omega" travelled-distance="2147483647">
+      <customer-name>Audrea Cardinal</customer-name>
+      <discount>45.00</discount>
+      <price>13797.88</price>
+      <price-with-discount>7588.834000</price-with-discount>
+    </car>
+  </sale>
+  <sale>
+    <car make="Opel" model="Insignia" travelled-distance="9223372036854775807">
+      <customer-name>Francis Mckim</customer-name>
+      <discount>50.00</discount>
+      <price>14652.88</price>
+      <price-with-discount>7326.440000</price-with-discount>
+    </car>
+  </sale>
+  <sale>
+    <car make="Opel" model="Vectra" travelled-distance="2147483647">
+      <customer-name>Carole Witman</customer-name>
+      <discount>0.00</discount>
+      <price>15551.88</price>
+      <price-with-discount>15551.880000</price-with-discount>
+    </car>
+  </sale>
+  <sale>
+    <car make="Opel" model="Astra" travelled-distance="2147483647">
+      <customer-name>Oren Perlman</customer-name>
+      <discount>5.00</discount>
+      <price>15531.88</price>
+      <price-with-discount>14755.286000</price-with-discount>
+    </car>
+  </sale>
+  <sale>
+    <car make="Opel" model="Omega" travelled-distance="2147483647">
+      <customer-name>Brett Brickley</customer-name>
+      <discount>10.00</discount>
+      <price>15551.88</price>
+      <price-with-discount>13996.692000</price-with-discount>
+    </car>
+  </sale>
+  <sale>
+    <car make="Opel" model="Corsa" travelled-distance="2147483647">
+      <customer-name>Kristian Engberg</customer-name>
+      <discount>15.00</discount>
+      <price>15551.88</price>
+      <price-with-discount>13219.098000</price-with-discount>
+    </car>
+  </sale>
+  <sale>
+    <car make="Opel" model="Insignia" travelled-distance="9223372036854775807">
+      <customer-name>Carri Knapik</customer-name>
+      <discount>20.00</discount>
+      <price>15528.88</price>
+      <price-with-discount>12423.104000</price-with-discount>
+    </car>
+  </sale>
+  <sale>
+    <car make="Opel" model="Omega" travelled-distance="9223336854775807">
+      <customer-name>Rema Revelle</customer-name>
+      <discount>25.00</discount>
+      <price>12607.88</price>
+      <price-with-discount>9455.910000</price-with-discount>
+    </car>
+  </sale>
+  <sale>
+    <car make="Opel" model="Corsa" travelled-distance="2">
+      <customer-name>Taina Achenbach</customer-name>
+      <discount>30.00</discount>
+      <price>8680.88</price>
+      <price-with-discount>6076.616000</price-with-discount>
+    </car>
+  </sale>
+  <sale>
+    <car make="Opel" model="Omega" travelled-distance="1">
+      <customer-name>Yvonne Mccalla</customer-name>
+      <discount>35.00</discount>
+      <price>6823.88</price>
+      <price-with-discount>4435.522000</price-with-discount>
+    </car>
+  </sale>
+  <sale>
+    <car make="BMW" model="F20" travelled-distance="2147483647">
+      <customer-name>Nisha Markwell</customer-name>
+      <discount>40.00</discount>
+      <price>4667.88</price>
+      <price-with-discount>2800.728000</price-with-discount>
+    </car>
+  </sale>
+  <sale>
+    <car make="BMW" model="F25" travelled-distance="9223372036854775807">
+      <customer-name>Cinthia Lasala</customer-name>
+      <discount>45.00</discount>
+      <price>3721.88</price>
+      <price-with-discount>2047.034000</price-with-discount>
+    </car>
+  </sale>
+  <sale>
+    <car make="BMW" model="M5 F10" travelled-distance="10">
+      <customer-name>Daniele Zarate</customer-name>
+      <discount>50.00</discount>
+      <price>2723.88</price>
+      <price-with-discount>1361.940000</price-with-discount>
+    </car>
+  </sale>
+  <sale>
+    <car make="BMW" model="F04" travelled-distance="100000">
+      <customer-name>Faustina Burgher</customer-name>
+      <discount>0.00</discount>
+      <price>1868.88</price>
+      <price-with-discount>1868.880000</price-with-discount>
+    </car>
+  </sale>
+  <sale>
+    <car make="BMW" model="E88" travelled-distance="200000">
+      <customer-name>Jimmy Grossi</customer-name>
+      <discount>5.00</discount>
+      <price>1290.88</price>
+      <price-with-discount>1226.336000</price-with-discount>
+    </car>
+  </sale>
+  <sale>
+    <car make="BMW" model="M Roadster E85" travelled-distance="92233720365807">
+      <customer-name>Sylvie Mcelravy</customer-name>
+      <discount>10.00</discount>
+      <price>1654.88</price>
+      <price-with-discount>1489.392000</price-with-discount>
+    </car>
+  </sale>
+  <sale>
+    <car make="BMW" model="1M Coupe" travelled-distance="2147">
+      <customer-name>Hipolito Lamoreaux</customer-name>
+      <discount>15.00</discount>
+      <price>1657.88</price>
+      <price-with-discount>1409.198000</price-with-discount>
+    </car>
+  </sale>
+  <sale>
+    <car make="BMW" model="X6 M" travelled-distance="922775807">
+      <customer-name>Garret Capron</customer-name>
+      <discount>20.00</discount>
+      <price>1568.88</price>
+      <price-with-discount>1255.104000</price-with-discount>
+    </car>
+  </sale>
+  <sale>
+    <car make="BMW" model="E67" travelled-distance="21447">
+      <customer-name>Donnetta Soliz</customer-name>
+      <discount>25.00</discount>
+      <price>3822.88</price>
+      <price-with-discount>2867.160000</price-with-discount>
+    </car>
+  </sale>
+  <sale>
+    <car make="BMW" model="M6 E63" travelled-distance="92235807">
+      <customer-name>Louann Holzworth</customer-name>
+      <discount>30.00</discount>
+      <price>3863.88</price>
+      <price-with-discount>2704.716000</price-with-discount>
+    </car>
+  </sale>
+  <sale>
+    <car make="BMW" model="M6 E63" travelled-distance="2147">
+      <customer-name>Ann Mcenaney</customer-name>
+      <discount>35.00</discount>
+      <price>4083.88</price>
+      <price-with-discount>2654.522000</price-with-discount>
+    </car>
+  </sale>
+</sales>

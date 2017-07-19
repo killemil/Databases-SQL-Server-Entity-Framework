@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoMap.Client", "AutoMap.Client\AutoMap.Client.csproj", "{9FE1E0E3-824C-4CA8-9F13-B17639BBE653}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoMap.Models", "AutoMap.Models\AutoMap.Models.csproj", "{2F37B8EF-E273-4960-89D9-1308446FC1A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoMap.Data", "AutoMap.Data\AutoMap.Data.csproj", "{3B7035DB-0EC0-4B91-A01B-BE88F6262104}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FE1E0E3-824C-4CA8-9F13-B17639BBE653}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FE1E0E3-824C-4CA8-9F13-B17639BBE653}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FE1E0E3-824C-4CA8-9F13-B17639BBE653}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FE1E0E3-824C-4CA8-9F13-B17639BBE653}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F37B8EF-E273-4960-89D9-1308446FC1A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F37B8EF-E273-4960-89D9-1308446FC1A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F37B8EF-E273-4960-89D9-1308446FC1A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F37B8EF-E273-4960-89D9-1308446FC1A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B7035DB-0EC0-4B91-A01B-BE88F6262104}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B7035DB-0EC0-4B91-A01B-BE88F6262104}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B7035DB-0EC0-4B91-A01B-BE88F6262104}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B7035DB-0EC0-4B91-A01B-BE88F6262104}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
